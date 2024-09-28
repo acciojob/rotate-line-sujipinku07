@@ -5,4 +5,5 @@ function rotateLine() {
         line.style.transform = `rotate(${angle}deg)`;
       }
 
-      setInterval(rotateLine, 20);//your JS code here. If required.
+      setInterval(rotateLine, 20); //rotate every 20 seconds
+//your JS code here. If required.
